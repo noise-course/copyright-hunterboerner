@@ -10,9 +10,9 @@ If your content was flagged by Content ID then the monetization may be disabled 
 
 # Fair Use
 
-The first upload was a video that used copyrighted music for a school project in middle school: ![copyright-vid.png]()
+The first upload was a video that used copyrighted music for a school project in middle school: ![](copyright-vid.png)
 
-The second video is an edited version of "Steamed Hams" from the Simpsons. I guess it can be considered parody but it's pretty low effort. The video was flagged for copyright but it wasn't restricted. ![steamed_hams.png]()
+The second video is an edited version of "Steamed Hams" from the Simpsons. I guess it can be considered parody but it's pretty low effort. The video was flagged for copyright but it wasn't restricted. ![](steamed_hams.png)
 
 # AI-Generated Content
 
