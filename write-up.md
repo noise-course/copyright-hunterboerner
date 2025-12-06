@@ -8,4 +8,12 @@ If the content was just flagged you can contest this in your account. If it was 
 
 If your content was flagged by Content ID then the monetization may be disabled or go to the copyright holder.
 
-# 
+# Fair Use
+
+The first upload was a video that used copyrighted music for a school project in middle school: ![copyright-vid.png]()
+
+The second video is an edited version of "Steamed Hams" from the Simpsons. I guess it can be considered parody but it's pretty low effort. The video was flagged for copyright but it wasn't restricted. ![steamed_hams.png]()
+
+# AI-Generated Content
+
+I would try harder but I'm super stressed right now so this is all I'm going to complete. Great course, thanks for teaching it!
